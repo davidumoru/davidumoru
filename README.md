@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A software developer with a passion for innovation</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidumoru&label=Visitors%20Count&color=0e75b6&style=flat" alt="davidumoru" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidumoru&label=Profile%20views&color=0e75b6&style=flat" alt="davidumoru" /> </p>
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center"> - Backend Software Engineer -</h3>
+<p> 🔭 I am passionate about building things for the web</p>
+<p> 🛠️ I actively write JavaScript (& TypeScript!)</p>
+<p> 🌱 I'm currently exploring Golang and blockchain engineering</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidumoru" alt="davidumoru" /></a> </p>
 
 <!--
