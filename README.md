@@ -4,7 +4,7 @@
 <h3 align="center"> - Backend Software Engineer -</h3>
 <p> 🔭 I am passionate about building things for the web</p>
 <p> 🛠️ I actively write JavaScript (& TypeScript!)</p>
-<p> 🌱 I'm currently exploring Golang and blockchain engineering</p>
+<p> 🌱 I'm currently exploring Golang and learning Blockchain Engineering</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidumoru" alt="davidumoru" /></a> </p>
 
