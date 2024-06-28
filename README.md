@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidumoru" alt="davidumoru" /></a> </p>
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-umoru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-umoru" height="30" width="40" /></a>
 <a href="https://medium.com/@davidumoru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidumoru" height="30" width="40" /></a>
 <a href="https://twitter.com/_davidumoru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_davidumoru" height="30" width="40" /></a>
-<!--
 <a href="https://www.behance.net/davidumoru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="davidumoru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davidumoru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidumoru" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davidumoru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidumoru" height="30" width="40" /></a>
