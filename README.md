@@ -155,30 +155,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
         width="48"
         height="48"
         alt="Sass"
       />
       <br /><strong>Sass</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-        width="48"
-        height="48"
-        alt="VueJS"
-      />
-      <br /><strong>Vue</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
-        width="48"
-        height="48"
-        alt="Nuxt"
-      />
-      <br /><strong>Nuxt</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -200,12 +191,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="VueJS"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>Vue</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+        width="48"
+        height="48"
+        alt="Nuxt"
+      />
+      <br /><strong>Nuxt</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
