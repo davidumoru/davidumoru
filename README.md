@@ -155,6 +155,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
         width="48"
         height="48"
@@ -197,15 +206,6 @@
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
