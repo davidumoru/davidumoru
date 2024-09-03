@@ -1,3 +1,6 @@
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidumoru&label=Visitors%20Count&color=0e75b6&style=flat" alt="davidumoru" /> </p>
 
 <h1 align="center">Hi 👋, I'm David</h1>
