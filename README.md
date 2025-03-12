@@ -1,9 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
-🌎 Tending to my [little corner of the internet](https://davidumoru.me)  
+🌎 Tending to [my digital corner](https://davidumoru.me)  
 🤸 What I'm up to [now](https://davidumoru.me/now)  
+🛠 Currently working on [Eunoia](https://github.com/davidumoru/eunoia)  
 💌 Sign my [guestbook](https://davidumoru.me/guestbook)  
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidumoru&label=Visitors%20Count&color=0e75b6&style=flat" alt="davidumoru" /> </p>
