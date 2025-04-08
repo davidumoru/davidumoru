@@ -3,7 +3,7 @@
 
 🌎 Tending to [my digital corner](https://davidumoru.me)  
 🤸 What I'm up to [now](https://davidumoru.me/now)  
-🛠 Currently working on [Eunoia](https://github.com/davidumoru/eunoia)  
+🛠 Currently working on [TweetSnap](https://github.com/davidumoru/tweet-image-generator)  
 💌 Sign my [guestbook](https://davidumoru.me/guestbook)  
 
 
